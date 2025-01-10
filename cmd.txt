@@ -1,0 +1,26 @@
+git init
+
+git add .
+
+git status
+
+git commit -m "First commit"
+
+
+git remote add origin https://github.com/Jappie123-net/haha.git
+
+git push -u origin master
+
+
+
+HOW TO ADD BRANCH
+
+git branch secondbranch
+
+git checkout -b secondbranch
+
+git push -u origin secondbranch
+
+
+
+
